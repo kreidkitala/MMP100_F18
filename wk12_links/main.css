@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+body{
+	background-color: aqua;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1{
+	font-family: 'Monoton', cursive;
+}
+img{
+	text-align: center;
+}
