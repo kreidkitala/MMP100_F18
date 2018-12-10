@@ -6,7 +6,7 @@
 
 body{
 	 font-family: Lucida Console, Monaco, monospace;
-	 background-color: black;
+	 background-color: white;
 	 padding: 0;
 	 margin: 0;
 }
@@ -23,7 +23,7 @@ a:hover{
 /*Navigation Styles*/
 
 nav{
-	background-color: blue;
+	background-color: black;
 }
 
 nav ul{
